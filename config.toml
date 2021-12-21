@@ -18,7 +18,7 @@ home = ["HTML", "RSS"]
   SEOTitle = "Chao Dai"
   description = "Personal website / blog"
   keyword = "genomics, genetics, computational biology"
-  slogan = "Work Life Balance"
+  slogan = "think happy ."
 
   image_404 = "img/404-bg.jpg"
   title_404 = "wah woh :("
