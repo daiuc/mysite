@@ -1,12 +1,14 @@
 ---
-title:       "Another example post"
+title:       "Welcome"
 subtitle:    ""
 description: ""
 date:        2021-12-20 
 author:      ""
 image:       ""
-tags:        ["life" ]
+tags:        ["life"]
 categories:  ["life"]
 ---
 
-# This is another example post
+# Welcome!
+
+This is my first entry. 

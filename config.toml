@@ -36,7 +36,7 @@ home = ["HTML", "RSS"]
   # algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Phd student in genomics and computational biology"
+  sidebar_about_description = "PhD student in genomics and computational biology"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/chao.jpeg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 

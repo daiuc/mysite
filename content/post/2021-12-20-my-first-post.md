@@ -1,14 +1,14 @@
 ---
-title:       "An Example Post"
+title:       "Build your own website with HUGO"
 subtitle:    ""
 description: ""
-date:        2021-12-19 
+date:        2021-12-20 
 author:      "Chao Dai"
 image:       ""
-tags:        ["biology"]
-categories:  ["Biology"]
+tags:        ["tips", "tech", "website"]
+categories:  [""]
 ---
 
-# what is computational biology?
+# How to build a static personal website/blog with HUGO
 
-you tell me. 
+to be continued...
