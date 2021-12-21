@@ -11,6 +11,6 @@ categories:  ["tech"]
 
 # How to build a static personal website/blog with HUGO
 
-![picture](img/balance.jpg)
+![picture](../../static/img/balance.jpg)
 
 to be continued...
