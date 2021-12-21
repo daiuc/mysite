@@ -14,11 +14,11 @@ hasCJKLanguage = true
 home = ["HTML", "RSS"]
 
 [params]
-  header_image = "img/balance.jpg"
+  header_image = "img/boat.jpg"
   SEOTitle = "Chao Dai"
   description = "Personal website / blog"
   keyword = "genomics, genetics, computational biology"
-  slogan = "think happy ."
+  slogan = "think happy."
 
   image_404 = "img/404-bg.jpg"
   title_404 = "wah woh :("
