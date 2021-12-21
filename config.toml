@@ -1,4 +1,4 @@
-baseurl = "daiuc.github.io/mysite"
+baseurl = ""
 title = "Chao Dai"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
