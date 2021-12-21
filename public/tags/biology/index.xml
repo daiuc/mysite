@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biology on Chao Dai</title>
+    <link>/tags/biology/</link>
+    <description>Recent content in biology on Chao Dai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/biology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Example Post</title>
+      <link>/post/2021-12-20-my-first-post/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-12-20-my-first-post/</guid>
+      <description>what is computational biology? you tell me.</description>
+    </item>
+    
+  </channel>
+</rss>
