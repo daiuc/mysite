@@ -11,7 +11,7 @@ hasCJKLanguage = true
 
 [outputs]
 #home = ["HTML", "RSS", "Algolia"]
-home = ["HTML", "RSS"]
+home = ["HTML"]
 
 [params]
   header_image = "img/boat.jpg"
@@ -64,7 +64,7 @@ home = ["HTML", "RSS"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
   [params.social]
-  rss            = true 
+  rss            = false 
   email          = "chaodai@uchicago.edu"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
