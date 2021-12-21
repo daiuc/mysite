@@ -4,13 +4,13 @@ subtitle:    ""
 description: ""
 date:        2021-12-20 
 author:      "Chao Dai"
-image:       ""
+image:       "/img/balance.jpg"
 tags:        ["tips", "tech", "website"]
 categories:  ["tech"]
 ---
 
 # How to build a static personal website/blog with HUGO
 
-![picture](../../static/img/balance.jpg)
+![](/img/desertRoad.jpg)
 
 to be continued...
