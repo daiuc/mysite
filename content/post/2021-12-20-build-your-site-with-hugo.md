@@ -3,7 +3,7 @@ title:       "Build your own website with HUGO"
 subtitle:    ""
 description: ""
 date:        2021-12-20 
-author:      "Chao Dai"
+author:      "Chao"
 image:       "/img/balance.jpg"
 tags:        ["tips", "tech", "website"]
 categories:  ["tech"]
@@ -48,3 +48,5 @@ In addition, I modified `layouts/_default/baseof.html` and added `layouts/partia
 ## 6. Publish to github
 
 ## 7. Set up Netlify
+
+Set up Netlify to automatically build whenever it detectts change in github repository. Additionally, set up custom DNS. Note Netlify automatically supports letsencript security certificate. 
